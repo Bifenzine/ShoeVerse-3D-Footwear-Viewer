@@ -44,13 +44,21 @@ Navigate through the interface to view different shoe models. Click and drag to 
 
 ShoeVerse-3D-Footwear-Viewer/
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── 3d_objects/
+
 │   ├── akatsuki_nike/
+
 │   └── vans/
+
 ├── textures/
+
 └── README.md
+
 
 ## 🤝 Contributing
 
