@@ -4,6 +4,8 @@
 
 ShoeVerse is a web-based 3D footwear visualization platform. It offers an immersive experience for exploring detailed 3D models of shoes, enhancing online shopping and sneaker appreciation.
 
+![](assets/foot.PNG)
+
 ## 🚀 Features
 
 - Interactive 3D shoe models
